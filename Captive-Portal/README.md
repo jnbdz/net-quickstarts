@@ -13,3 +13,6 @@
     - [Welcome to Nodogsplash’s documentation!](https://nodogsplashdocs.readthedocs.io/en/stable/)
     - [nodogsplashdocs.readthedocs.io](https://nodogsplashdocs.readthedocs.io/en/v4.5.0/overview.html)
     - [NoDogSplash Captive Portal | openwrt.org](https://openwrt.org/docs/guide-user/services/captive-portal/nodogsplash)
+### Videos
+- [my SUPER secure Raspberry Pi Router (wifi VPN travel router) | YouTube](https://www.youtube.com/watch?v=jlHWnKVpygw)
+- [OpenWRT - Captive Portal - WiFi Splash Page | YouTube](https://www.youtube.com/watch?v=b7vTY1k8iGo)
