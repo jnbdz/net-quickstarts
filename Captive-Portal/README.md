@@ -1,4 +1,4 @@
-<img src="assets/Captive_Portal.png" alt="Captive Portal example screenshot" style="width: 255px;" align="right">
+<img src="assets/Captive_Portal.png" alt="Captive Portal example screenshot" style="width: 315px;" align="right">
 
 # Captive Portal | Net | Quickstarts
 
