@@ -1,4 +1,4 @@
-<img src="assets/SNMP.webp" alt="Simple Network Management Protocol" style="width: 380px;" align="right">
+<img src="assets/SNMP_communication_principles_diagram.png" alt="Simple Network Management Protocol" style="width: 380px;" align="right">
 
 # <acronym title="Simple Network Management Protocol">SNMP</acronym> | Net | Quickstarts
 - SNMP: Simple Network Management Protocol
