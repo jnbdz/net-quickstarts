@@ -44,6 +44,9 @@
 ## How is SNMP Used
 ...
 
+## Tools
+- [Netdisco Project - Netdisco and SNMP-Info | GitHub](https://github.com/netdisco)
+
 ## Resources
 - Books: 
   - [SNMP Mastery (It Mastery)](https://www.amazon.com/SNMP-Mastery-Michael-W-Lucas/dp/1642350370/)
