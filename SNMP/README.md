@@ -1,6 +1,7 @@
 <img src="assets/SNMP.webp" alt="Simple Network Management Protocol" style="width: 380px;" align="right">
 
 # <acronym title="Simple Network Management Protocol">SNMP</acronym> | Net | Quickstarts
+- SNMP: Simple Network Management Protocol
 - Allow devices to communicate management information to one another
 - The dream: one admin can control an entire fleet (start process, close that interface, get rid of a user, see errors, deal with spammers, etc)
 
@@ -17,9 +18,9 @@
 - Similar to client-server model
 - Diff to Secure Shell (SSH)
 - Faster than SSH
-- **SNMP** *manager* is the client software that issues requests
+- <acronym title="Simple Network Management Protocol">**SNMP**</acronym> *manager* is the client software that issues requests
   - Named manager because (expected) it extracts management information from devices and also can issue commands to them
-- **SNMP** *agent* is a server
+- <acronym title="Simple Network Management Protocol">**SNMP**</acronym> *agent* is a server
   - Runs devices like: router, server, or workstation
   - More dynamic than most server software
   - Can help with confuguring the host
