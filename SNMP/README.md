@@ -43,3 +43,8 @@
     - Icinga
 ## How is SNMP Used
 ...
+
+## Resources
+- Books: 
+  - [SNMP Mastery (It Mastery)](https://www.amazon.com/SNMP-Mastery-Michael-W-Lucas/dp/1642350370/)
+  - [Essential SNMP: Help for System and Network Administrators](https://www.amazon.ca/Essential-SNMP-Second-Douglas-Mauro/dp/0596008406/)
