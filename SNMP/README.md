@@ -1,4 +1,4 @@
-<img src="assets/SNMP.wepb" alt="Captive Portal example screenshot" style="width: 380px;" align="right">
+<img src="assets/SNMP.webp" alt="Simple Network Management Protocol" style="width: 380px;" align="right">
 
 # <acronym title="Simple Network Management Protocol">SNMP</acronym> | Net | Quickstarts
 - Allow devices to communicate management information to one another
