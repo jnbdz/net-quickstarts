@@ -2,3 +2,7 @@
 
 # TLS | Net | Quickstarts
 - Transport Layer Security
+
+## Resources
+- https://github.com/ioerror/tlsdate
+- https://github.com/ioerror/sslscan
