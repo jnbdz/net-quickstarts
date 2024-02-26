@@ -44,6 +44,13 @@
 ## How is SNMP Used
 ...
 
+## Kali Linux Tools
+Here are the tools in Kali Linux that are specific to work with SNMP: 
+![](./assets/kali-SNMP-tools.png)
+- [`braa`](https://www.kali.org/tools/braa/) [Home page](http://s-tech.elsat.net.pl/) - Mass SNMP scanner (like: snmpget or snmpwalk from net-snmp). Very fast!
+- [`onesixtyone`](https://www.kali.org/tools/onesixtyone/) [Home page](https://github.com/trailofbits/onesixtyone) - Fast SNMP Scanner.
+- [`snmp-check`](https://www.kali.org/tools/snmpcheck/) [Home page](http://www.nothink.org/codes/snmpcheck/index.php) [repo](https://gitlab.com/kalilinux/packages/snmpcheck) - Snmpcheck is an open source tool distributed under GPL license. Its goal is to automate the process of gathering information of any devices with SNMP protocol support (Windows, Unix-like, network appliances, printers...). Like to snmpwalk, snmpcheck allows you to enumerate the SNMP devices and places the output in a very human readable friendly format. It could be useful for penetration testing or systems monitoring.
+
 ## Tools
 - [Netdisco Project - Netdisco and SNMP-Info | GitHub](https://github.com/netdisco)
 
