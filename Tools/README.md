@@ -10,3 +10,6 @@
 - https://www.ansible.com/blog/using-netbox-for-ansible-source-of-truth
 - RACI devseops
 - https://digit-agile.fr/coach-agile-scrum-xp-lean-devops-safe/ateliers-activites-teambuilding/raci-matrice/#:~:text=Qu%E2%80%99est%20ce%20que%20le%20RACI%20%3F%20Le%20RACI,ccountable%20%3A%20Celui%20qui%20supervise%20et%20donne%20l%E2%80%99autorit%C3%A9
+- https://github.com/netbox-community/pynetbox
+- https://pynetbox.readthedocs.io/en/latest/
+- https://pynetbox.readthedocs.io/en/latest/advanced.html#custom-sessions
