@@ -1,6 +1,6 @@
 <img src="assets/application-dict.webp" alt="Application Dictionary" style="width: 380px;" align="right">
 
-# Application Dictionary | Net | Quickstarts
+# Application Dictionary | Tools | Net | Quickstarts
 This concept represents a shift towards a more dynamic, application-focused approach to network security and policy management, leveraging detailed application information to streamline processes, enhance security, and facilitate clearer communication among all parties involved.
 
 The concept of an "Application Dictionary" as outlined in your description can be summarized through the following key points and features:

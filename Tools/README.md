@@ -1,0 +1,12 @@
+# Tools | Net | Quickstarts
+- https://nornir.readthedocs.io/en/latest/index.html
+- https://www.linode.com/docs/products/compute/compute-instances/guides/systemd-networkd/
+- https://ultraconfig.com.au/
+- https://datatracker.ietf.org/wg/netmod/about/
+- https://github.com/mbj4668/pyang
+- https://github.com/openconfig
+- https://www.openconfig.net/projects/models/
+- https://github.com/robshakir/pyangbind
+- https://www.ansible.com/blog/using-netbox-for-ansible-source-of-truth
+- RACI devseops
+- https://digit-agile.fr/coach-agile-scrum-xp-lean-devops-safe/ateliers-activites-teambuilding/raci-matrice/#:~:text=Qu%E2%80%99est%20ce%20que%20le%20RACI%20%3F%20Le%20RACI,ccountable%20%3A%20Celui%20qui%20supervise%20et%20donne%20l%E2%80%99autorit%C3%A9
