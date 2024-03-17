@@ -1,2 +1,2 @@
-# ZTNA | Net | Quickstarts
-Zero Trust Network Access (ZTNA)
+ # ZTNA | Net | Quickstarts
+**Zero Trust Network Access (ZTNA)**: is a security model that assumes no inherent trust for any entity—inside or outside the network perimeter. Instead, it requires verification and authorization for every access request to resources, regardless of location. ZTNA uses strict identity verification, least-privileged access principles, and microsegmentation to ensure secure access to applications and data.
