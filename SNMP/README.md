@@ -4,7 +4,16 @@
 - SNMP: Simple Network Management Protocol
 - Allow devices to communicate management information to one another
 - The dream: one admin can control an entire fleet (start process, close that interface, get rid of a user, see errors, deal with spammers, etc)
-
+## Debian Issues
+- The standard MIB files shipped with net-snmp -- is not 100% free --
+- The solution is to enable the **non-free repository** (install: snmp-mibs-downloader package on your manager)
+- Packages: 
+  - snmp
+  - snmpd
+  - libsnmp-dev
+- Last step (Debian disables reading of the MIB files):
+  - `sudo vim /etc/snmp/snmp.conf`
+  - comment out the *mibs* keyword
 ## Other Protocols
 - IPX
 - AppleTalk
@@ -43,6 +52,12 @@
     - Icinga
 ## How is SNMP Used
 ...
+
+## Variants and Versions
+### SNMPv1
+- 
+### SNMPv2
+### SNMPv3
 
 ## Kali Linux Tools
 Here are the tools in Kali Linux that are specific to work with SNMP: 
