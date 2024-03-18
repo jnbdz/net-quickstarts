@@ -7,3 +7,7 @@
   - OpenSearch
   - OpenSearch Dashboards
   - Ingest Tools
+### Commercial
+- [CrowdStrike Falcon](https://www.crowdstrike.com/falcon-platform/)
+- [SentinelOne](https://www.sentinelone.com/)
+- [Sophos Intercept X](https://play.google.com/store/apps/details)
