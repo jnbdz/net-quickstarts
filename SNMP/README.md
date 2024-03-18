@@ -73,6 +73,8 @@ Here are the tools in Kali Linux that are specific to work with SNMP:
 - Books: 
   - [SNMP Mastery (It Mastery)](https://www.amazon.com/SNMP-Mastery-Michael-W-Lucas/dp/1642350370/)
   - [Essential SNMP: Help for System and Network Administrators](https://www.amazon.ca/Essential-SNMP-Second-Douglas-Mauro/dp/0596008406/)
+### Videos
+- [SNMPv3 configuration on Gaia Security Gateway | YouTube](https://www.youtube.com/watch?v=9dZGQqa8TlQ)
 
 ## Credits
 - https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol#/media/File:SNMP_communication_principles_diagram.PNG
